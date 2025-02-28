@@ -11,5 +11,11 @@
 - Mengedit tryout
 - Menghapus tryout
 ## level 2
-
+- [ ]  Mengimplementasikan tampilan untuk create, update, dan delete tryout
+- [ ]  Melakukan integrasi dengan backend level 1
+- [ ]  Implementasi sistem filtering (judul, kategori, tanggal pembuatan tryout)
+- [ ]  Implementasi CRUD untuk questions dalam tryout
+- [ ]  Menentukan tipe question: **True/False**, hanya satu jawaban benar
+- [ ]  Hanya tryout tanpa submisi yang bisa diedit/dihapus
+- [ ]  Integrasi dengan frontend level 1
 ## level 3
